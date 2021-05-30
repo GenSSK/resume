@@ -5,9 +5,14 @@
 [g.sasaki@crl.epi.dendai.ac.jp](g.sasaki@crl.epi.dendai.ac.jp)
 
 ## SKILLS
+Human-Machine and Human-Human systems, advanced motion control, machine/deep learning, and circuit and mechanical design 
 
 ## EXPERIENCE
+###
+### Tokyo Denki University, Tokyo, Japan - Student Assistant
+- 
 
 ## EDUCATION
 
-## AWARDS 
+
+## AWARDS
